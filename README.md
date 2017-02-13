@@ -13,7 +13,7 @@
  
  //height:距离多少高度开始触发加载；默认200px
  
-  例：new（dom,500,100）;
+  例：new ImgLazyLoad（dom,500,100）;
   
   
   欢迎issues；欢迎使用；

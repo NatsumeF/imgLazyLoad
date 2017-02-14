@@ -3,9 +3,9 @@
 项目引入imgLzayLoad文件；
   
   需要延迟加载的dom添加data-src属性；
-  例：<img src="load.png" data-src="my-img.jpg"/>
+  例："\<img src="load.png" data-src="my-img.jpg"/>"
   
- 调用new ImgLazyLoad(doms,time,height);
+  调用new ImgLazyLoad(doms,time,height);
  
  //doms：为需要懒加载的dom集合推荐document.querySelectorAll（"xx"）;
  
